@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/nonewmail.png</file>
+        <file>icons/newmail.png</file>
+        <file>icons/gmailtray.png</file>
+    </qresource>
+</RCC>
